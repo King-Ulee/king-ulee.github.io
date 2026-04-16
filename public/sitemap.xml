@@ -4,7 +4,19 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-25T05:02:50+07:00</lastmod>
+    <lastmod>2026-03-01T05:02:50+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/lainnya/diary/</loc>
+    <lastmod>2026-03-01T05:02:50+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/lainnya/diary/test/</loc>
+    <lastmod>2026-03-01T05:02:50+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -88,11 +100,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/belajar/python/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/lainnya/diary/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

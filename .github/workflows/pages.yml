@@ -1,12 +1,11 @@
+# .github/workflows/gh-pages.yml
+
 name: GitHub Pages
 
 on:
   push:
     branches:
-      - master
-
-permissions:
-  contents: write
+      - main
 
 jobs:
   build-deploy:
@@ -23,15 +22,14 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "0.160.1"
-          extended: true
+          hugo-version: "latest"
 
       - name: Build
         run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/master' }}
+        if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages

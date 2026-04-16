@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diary on </title>
-    <link>http://localhost:1313/lainnya/diary/</link>
+    <link>http://localhost:1313/tags/diary/</link>
     <description>Recent content in Diary on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
     <copyright>© 2026 Azriel Fidzlie. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 01 Mar 2026 05:02:50 +0700</lastBuildDate><atom:link href="http://localhost:1313/lainnya/diary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Mar 2026 05:02:50 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/diary/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Test</title>

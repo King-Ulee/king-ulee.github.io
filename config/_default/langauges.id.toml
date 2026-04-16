@@ -1,0 +1,30 @@
+disabled = false
+languageCode = "id"
+languageName = "Bahasa Indonesia"
+weight = 1
+
+
+[params]
+  displayName = "ID"
+  isoCode = "id"
+  rtl = false
+  dateFormat = "2 January 2006"
+  title = "A Developer's Note"
+  logo = "images/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+    copyright = "© { year } Azriel Fidzlie. All rights reserved."
+
+[params.author]
+  name = "Azriel Fidzlie"
+  image = "images/authors/azrielfidzlie.jpg"
+  bio = "Halo, nama saya Azriel Fidzlie 👋. Saya seorang `{full-stack}` developer, mahasiswa, dan `{designer}` yang hidup dengan menikmati secangkir teh 24/7 ☕️."
+  links = [
+    { facebook = "https://facebook.com/ulee.undead" },
+    { twitter = "https://twitter.com/king_ulee" },
+    { instagram = "https://instagram.com/mas.ulee" },
+    { youtube = "https://www.youtube.com/@KingUlee/" },
+    { github = "https://github.com/King-Ulee" },
+    { linkedin = "https://www.linkedin.com/in/azriel-fidzlie-129252278/" },
+    { email = "mailto:fidzlieazriel@gmail.com" },
+  ]

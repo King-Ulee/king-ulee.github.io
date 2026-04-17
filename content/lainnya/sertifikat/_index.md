@@ -1,13 +1,17 @@
 ---
 title: "Sertifikat"
-description: "Sertifikat yang saya peroleh selama karier saya."
+description: "Sertifikat yang saya peroleh."
 ---
 
-Menampilkan sertifikat yang saya peroleh selama karier saya.
+Menampilkan sertifikat yang saya peroleh.
 
 ## ERP (Enterprise Resource Planning) - 10 Januari 2026
 
-Sertifikat yang saya peroleh sebagai pengakuan atas kompetensi dan keahlian saya dalam bidang Enterprise Resource Planning (ERP). Sertifikat ini mencerminkan dedikasi saya dalam mengembangkan pengetahuan dan keterampilan di bidang ERP, serta komitmen saya untuk terus belajar dan berkontribusi dalam industri ini.
+Saya sangat bersyukur dan bangga bisa menyelesaikan Workshop Enterprise Resource Planning (ERP) yang diselenggarakan oleh PT. Sumihai Teknologi Indonesia. Melalui pelatihan ini, saya berhasil lulus Uji Kompetensi ERP dengan tingkat 'Proficient' dan meraih skor 97.50. Terima kasih kepada instruktur dan semua pihak yang telah mendukung proses belajar ini. Saya tidak sabar untuk mengimplementasikan ilmu ini di dunia profesional!
+
+**Sumiati Pangat**<br>
+Directur STI - PT. Sumihai Teknologi Indonesia<br>
+www.sumihai.co.id
 
 <iframe src="./ERP.pdf" width="100%" height="500" fitwidth="yes" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 

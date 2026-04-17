@@ -169,7 +169,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   # enableTrackEvent = true
 
 [buymeacoffee]
-  identifier = "kingulee"
+  identifier = "fidzlieazrz"
   globalWidget = true
   globalWidgetMessage = "Support my work by buying me a coffee! ☕️"
   globalWidgetColor = "#FFDD00"

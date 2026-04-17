@@ -2,6 +2,7 @@ disabled = false
 languageCode = "id"
 languageName = "Bahasa Indonesia"
 weight = 1
+title = "King Ulee"
 
 
 [params]

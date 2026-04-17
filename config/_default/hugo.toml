@@ -4,7 +4,6 @@
 
 theme = "blowfish" # UNCOMMENT THIS LINE
 baseURL = "https://kingulee.com"
-# baseURL = "https://localhost:1313"
 defaultContentLanguage = "id"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles

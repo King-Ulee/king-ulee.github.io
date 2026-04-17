@@ -145,13 +145,13 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "AIzaSyB8ldiTSp3TodEsmggNnPyYoTfJZZkuF10"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyBkwQaURjmaQqzokIoModY1tvhY5l0VsmA"
+  authDomain = "kingulee-dev.firebaseapp.com"
+  projectId = "kingulee-dev"
+  storageBucket = "kingulee-dev.firebasestorage.app"
+  messagingSenderId = "990969738063"
+  appId = "1:990969738063:web:ebc04a739273cf70474b3a"
+  measurementId = "G-KPQ1KD79G9"
 
 [fathomAnalytics]
   # site = "ABC12345"
@@ -176,7 +176,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   globalWidgetPosition = "right"
 
 [verification]
-  google = "DNvPye7bFJ9XVmKg8htu38ukB3gnAWJ6UvbPwtCRchU"
+  google = "G-KPQ1KD79G9"
   # bing = ""
   # pinterest = ""
   # yandex = ""

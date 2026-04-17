@@ -17,12 +17,16 @@ www.sumihai.co.id
 
 ## Sertifikat Kompetensi - 15 September 2025
 
-Sertifikat yang saya peroleh sebagai pengakuan atas kompetensi dan keahlian saya dalam bidang teknologi informasi. Sertifikat ini mencerminkan dedikasi saya dalam mengembangkan pengetahuan dan keterampilan di bidang teknologi informasi, serta komitmen saya untuk terus belajar dan berkontribusi dalam industri ini.
+Sangat antusias untuk membagikan pencapaian terbaru saya! Saya telah resmi bersertifikasi kompetensi sebagai Analis Program (Program Analyst) oleh Badan Nasional Sertifikasi Profesi (BNSP).
+
+Sertifikasi di bidang Pengembangan Perangkat Lunak ini merupakan validasi atas kemampuan dan komitmen saya dalam merancang, menganalisis, serta membangun sistem informasi yang handal dan terstruktur. Pencapaian ini semakin memotivasi saya untuk terus berinovasi dan memberikan solusi teknis terbaik dalam setiap proyek web development yang saya kerjakan ke depannya. Mari terus bertumbuh dan belajar!
 
 <iframe src="./sertifikat_kompetensi.pdf" width="100%" height="500" fitwidth="yes" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 ## Sertifikat IAII (Ikatan Ahli Informatika Indonesia) - 21 Januari 2023
 
-Sertifikat yang saya peroleh dari Ikatan Ahli Informatika Indonesia (IAII) sebagai pengakuan atas kompetensi dan keahlian saya di bidang informatika. Sertifikat ini mencerminkan dedikasi saya dalam mengembangkan pengetahuan dan keterampilan di bidang teknologi informasi, serta komitmen saya untuk terus belajar dan berkontribusi dalam industri ini.
+Saya sangat senang membagikan pencapaian saya dalam meraih Sertifikat Profisiensi Pengetahuan di bidang Database Systems dari Ikatan Ahli Informatika Indonesia (IAII) dengan predikat Proficient.
+
+Melalui sertifikasi ini, saya telah divalidasi memiliki pemahaman yang kuat mencakup desain database relasional, optimasi query tingkat lanjut, hingga arsitektur sistem penyimpanan data. Pencapaian ini memperkuat fondasi teknis saya sebagai pengembang web dalam merancang sistem back-end yang efisien, aman, dan dapat diskalakan. Terus semangat untuk belajar dan mengimplementasikan solusi database terbaik di setiap project yang saya kerjakan!
 
 <iframe src="./Sertifikat_IAII.pdf" width="100%" height="500" fitwidth="yes" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>

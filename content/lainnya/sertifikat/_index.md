@@ -30,3 +30,14 @@ Saya sangat senang membagikan pencapaian saya dalam meraih Sertifikat Profisiens
 Melalui sertifikasi ini, saya telah divalidasi memiliki pemahaman yang kuat mencakup desain database relasional, optimasi query tingkat lanjut, hingga arsitektur sistem penyimpanan data. Pencapaian ini memperkuat fondasi teknis saya sebagai pengembang web dalam merancang sistem back-end yang efisien, aman, dan dapat diskalakan. Terus semangat untuk belajar dan mengimplementasikan solusi database terbaik di setiap project yang saya kerjakan!
 
 <iframe src="./Sertifikat_IAII.pdf" width="100%" height="500" fitwidth="yes" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+## Sertifikat Pelatihan Web Development - 23 Juni 2023
+
+Saya sangat bangga untuk membagikan pencapaian saya dalam meraih Sertifikat Pelatihan Web Development dari Dicoding Indonesia dengan predikat Lulus. Melalui pelatihan ini, saya telah divalidasi memiliki pemahaman yang kuat mencakupai HTML, CSS, JavaScript, serta framework populer seperti React dan Node.js. Pencapaian ini memperkuat fondasi teknis saya sebagai pengembang web dalam merancang dan membangun aplikasi web yang responsif, interaktif, dan user-friendly. Terus semangat untuk belajar dan mengimplementasikan solusi web terbaik di setiap project yang saya kerjakan!
+
+{{< gallery >}}
+<img src="./Java.png" class="grid-w50 md:grid-w33 xl:grid-w50" />
+<img src="./Learn-Java-Basics.png" class="grid-w50 md:grid-w33 xl:grid-w50" />
+<img src="./Learn-Python-Basics.png" class="grid-w50 md:grid-w33 xl:grid-w50" />
+<img src="./Python-Beyond-Basics-Challenges.png" class="grid-w50 md:grid-w33 xl:grid-w50" />
+{{< /gallery >}}

@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish" # UNCOMMENT THIS LINE
-baseURL = "https://king-ulee.github.io"
+baseURL = "https://kingulee.com"
 # baseURL = "https://localhost:1313"
 defaultContentLanguage = "id"
 

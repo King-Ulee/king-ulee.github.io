@@ -14,6 +14,4 @@ Alfa Net Fams adalah sebuah komunitas kecil yang hobby bermain game online, teru
 
 Banyak keseruan disaat PM(Paket Malem) yang diadakan setiap malam minggu, dimana kita selalu bermain bersama-sama, War Clan, GB pangkat sampai mayor, dan masih banyak lagi. tak lupa banyak kejadian lucu yang terjadi saat bermain bersama seperti mati konyol, suicide.
 
-![alfa net fams 2](./featured.jpg)
-
-January 10 2015 - foto bersama (Azriel, Nanda, Deo Rahman, Sultan, Alesandro, dan Aldi)
+![alfa net fams 2](./featured.jpg "January 10 2015 - foto bersama (Azriel, Nanda, Deo Rahman, Sultan, Alesandro, dan Aldi)")

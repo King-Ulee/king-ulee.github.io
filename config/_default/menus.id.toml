@@ -43,6 +43,13 @@
   url = "/belajar/python"
 
 [[main]]
+  pre = "algorithm"
+  name = "Logika dan Algoritma"
+  parent = "Belajar"
+  weight = 20
+  url = "/belajar/algoritma"
+
+[[main]]
   pre = "user-account"
   name = "About"
   weight = 20

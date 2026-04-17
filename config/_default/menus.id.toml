@@ -43,6 +43,12 @@
   url = "/belajar/python"
 
 [[main]]
+  pre = "user-account"
+  name = "About"
+  weight = 20
+  url = "/about"
+
+[[main]]
   pre = "option"
   name = "Lainnya"
   weight = 20
@@ -50,10 +56,17 @@
 
 [[main]]
   pre = "notebook"
-  name = "Diary"
+  name = "Pengalaman"
   parent = "Lainnya"
   weight = 20
-  url = "/lainnya/diary"
+  url = "/lainnya/Pengalaman"
+
+[[main]]
+  pre = "award"
+  name = "Sertifikat"
+  parent = "Lainnya"
+  weight = 20
+  url = "/lainnya/sertifikat"
 
 [[main]]
   identifier = "github"

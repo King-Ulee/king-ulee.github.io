@@ -1,7 +1,7 @@
 ---
-title: "Belajar HTML untuk Pemula"
+title: "HTML untuk Pemula"
 description: "Belajar HTML untuk pemula."
-type: "belajar"
+type: "pemrograman"
 tags: ["html", "belajar html", "html untuk pemula"]
 ---
 

@@ -17,10 +17,18 @@
   url = "/portfolio"
 
 [[main]]
+  pre = "user-account"
+  name = "About"
+  weight = 20
+  url = "/about"
+
+[[main]]
   pre = "newspaper-clipping"
   name = "Artikel"
   weight = 20
   url = "/artikel"
+
+# =====================Belajar======================
 
 [[main]]
   pre = "graduation-cap"
@@ -29,31 +37,20 @@
   url = "/belajar"
 
 [[main]]
-  pre = "html-5"
-  name = "HTML"
+  pre = "source-code"
+  name = "Computer Programming"
   parent = "Belajar"
   weight = 20
-  url = "/belajar/html"
+  url = "/belajar/programming"
 
 [[main]]
-  pre = "python"
-  name = "Python"
+  pre = "erp"
+  name = "Enterprise Resource Planning"
   parent = "Belajar"
   weight = 20
-  url = "/belajar/python"
+  url = "/belajar/erp"
 
-[[main]]
-  pre = "algorithm"
-  name = "Logika dan Algoritma"
-  parent = "Belajar"
-  weight = 20
-  url = "/belajar/algoritma"
-
-[[main]]
-  pre = "user-account"
-  name = "About"
-  weight = 20
-  url = "/about"
+# =====================Lainnya======================
 
 [[main]]
   pre = "option"
@@ -74,6 +71,8 @@
   parent = "Lainnya"
   weight = 20
   url = "/lainnya/sertifikat"
+
+# =====================Penutup======================
 
 [[main]]
   identifier = "github"

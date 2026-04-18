@@ -1,7 +1,7 @@
 ---
-title: "Belajar Logika dan Algoritma"
+title: "Logika dan Algoritma"
 description: "Belajar Logika dan Algoritma untuk Pemula."
-type: "belajar"
+type: "pemrograman"
 tags: ["logika", "algoritma", "pemula"]
 ---
 

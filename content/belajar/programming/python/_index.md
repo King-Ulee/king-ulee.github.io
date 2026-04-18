@@ -1,7 +1,7 @@
 ---
-title: "Belajar Python untuk Pemula"
+title: "Python untuk Pemula"
 description: "Tutorial Python untuk pemula."
-type: "belajar"
+type: "pemrograman"
 tags: ["python", "belajar python", "python untuk pemula"]
 ---
 

@@ -23,9 +23,15 @@
   url = "/about"
 
 [[main]]
+  pre = "notebook"
+  name = "Resume"
+  weight = 30
+  url = "/resume"
+
+[[main]]
   pre = "newspaper-clipping"
   name = "Artikel"
-  weight = 20
+  weight = 40
   url = "/artikel"
 
 # =====================Belajar======================
@@ -33,21 +39,21 @@
 [[main]]
   pre = "graduation-cap"
   name = "Belajar"
-  weight = 20
+  weight = 50
   url = "/belajar"
 
 [[main]]
   pre = "source-code"
   name = "Computer Programming"
   parent = "Belajar"
-  weight = 20
+  weight = 50
   url = "/belajar/programming"
 
 [[main]]
   pre = "erp"
   name = "Enterprise Resource Planning"
   parent = "Belajar"
-  weight = 20
+  weight = 50
   url = "/belajar/erp"
 
 # =====================Lainnya======================
@@ -55,21 +61,14 @@
 [[main]]
   pre = "option"
   name = "Lainnya"
-  weight = 20
+  weight = 60
   url = "/lainnya"
-
-[[main]]
-  pre = "notebook"
-  name = "Pengalaman"
-  parent = "Lainnya"
-  weight = 20
-  url = "/lainnya/Pengalaman"
 
 [[main]]
   pre = "award"
   name = "Sertifikat"
   parent = "Lainnya"
-  weight = 20
+  weight = 60
   url = "/lainnya/sertifikat"
 
 # =====================Penutup======================
@@ -78,13 +77,13 @@
   identifier = "github"
   pre = "github"
   url = "https://github.com/King-Ulee"
-  weight = 25
+  weight = 65
 
 [[main]]
   identifier = "twitter"
   pre = "twitter"
   url = "https://twitter.com/king_ulee"
-  weight = 30
+  weight = 70
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

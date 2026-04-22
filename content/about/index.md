@@ -9,6 +9,7 @@ showPagination: false
 showAuthor: true
 showDate: false
 showReadingTime: false
+showShareLinks: false
 ---
 
 Saya lahir dan besar di Jakarta . Jakarta terletak di provinsi DKI Jakarta, Indonesia, dan terkenal dengan sejarahnya yang kaya, termasuk sebagai ibu kota Sunda Kalapa dan sebagai pusat pelabuhan kerajaan Padjadjaran. Saya berharap dapat bertemu Anda di kampung halaman saya.

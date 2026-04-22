@@ -5,7 +5,7 @@ type: "page"
 showTableOfContents: true
 showRelated: false
 showPagination: false
-showAuthor: true
+showAuthor: false
 showDate: false
 showReadingTime: false
 ---
@@ -22,7 +22,7 @@ www.sumihai.co.id
 
 <iframe src="./ERP.pdf" width="100%" height="500" fitwidth="yes" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-## Sertifikat Kompetensi - 15 September 2025
+## Sertifikat Kompetensi Analis Program - 15 September 2025
 
 Sangat antusias untuk membagikan pencapaian terbaru saya! Saya telah resmi bersertifikasi kompetensi sebagai Analis Program (Program Analyst) oleh Badan Nasional Sertifikasi Profesi (BNSP).
 
@@ -38,9 +38,9 @@ Melalui sertifikasi ini, saya telah divalidasi memiliki pemahaman yang kuat menc
 
 <iframe src="./Sertifikat_IAII.pdf" width="100%" height="500" fitwidth="yes" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-## Sertifikat Pelatihan Web Development - 23 Juni 2023
+## Certificate of Completion - 23 Juni 2023
 
-Saya sangat bangga untuk membagikan pencapaian saya dalam meraih Sertifikat Pelatihan Web Development dari Dicoding Indonesia dengan predikat Lulus. Melalui pelatihan ini, saya telah divalidasi memiliki pemahaman yang kuat mencakupai HTML, CSS, JavaScript, serta framework populer seperti React dan Node.js. Pencapaian ini memperkuat fondasi teknis saya sebagai pengembang web dalam merancang dan membangun aplikasi web yang responsif, interaktif, dan user-friendly. Terus semangat untuk belajar dan mengimplementasikan solusi web terbaik di setiap project yang saya kerjakan!
+Saya sangat bangga untuk membagikan pencapaian saya dalam meraih Sertifikat Pelatihan "Java Interview Questions", "Learn Java Basics", "Learn Python Basics", dan "Python Beyond Basics Challenges" dari Programiz. Melalui pelatihan ini, saya telah memperoleh pemahaman yang kuat tentang dasar-dasar pemrograman Java, termasuk sintaksis, struktur data, dan konsep pemrograman berorientasi objek. Pencapaian ini semakin memperkuat fondasi teknis saya sebagai pengembang web dan memberikan saya keterampilan tambahan untuk mengembangkan aplikasi yang lebih kompleks di masa depan. Terus semangat untuk belajar dan mengembangkan keterampilan pemrograman saya!
 
 {{< gallery >}}
 <img src="./Java.png" class="grid-w50 md:grid-w33 xl:grid-w50" />

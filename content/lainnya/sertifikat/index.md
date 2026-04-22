@@ -1,6 +1,13 @@
 ---
 title: "Sertifikat"
 description: "Sertifikat yang saya peroleh."
+type: "page"
+showTableOfContents: true
+showRelated: false
+showPagination: false
+showAuthor: true
+showDate: false
+showReadingTime: false
 ---
 
 Menampilkan sertifikat yang saya peroleh.

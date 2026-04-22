@@ -1,6 +1,13 @@
 ---
 title: "Pengalaman"
 description: "Pengalaman kerja, proyek, dan pencapaian saya."
+type: "page"
+showTableOfContents: true
+showRelated: false
+showPagination: false
+showAuthor: true
+showDate: false
+showReadingTime: false
 ---
 
 Menampilkan perusahaan tempat saya bekerja, proyek yang saya kerjakan, dan pencapaian yang saya raih selama karier saya.

@@ -1,9 +1,14 @@
 ---
 title: "About me"
-showAuthor: true
-date: 2025-05-15T01:55:47+07:00
 draft: false
 description: "Blog pribadi ini dibuat untuk berbagi pengetahuan, pengalaman, dan informasi seputar teknologi, pemrograman, dan topik menarik lainnya. Tujuannya adalah untuk memberikan wawasan yang berguna bagi pembaca yang tertarik dengan dunia teknologi dan pengembangan perangkat lunak."
+type: "page"
+showTableOfContents: true
+showRelated: false
+showPagination: false
+showAuthor: true
+showDate: false
+showReadingTime: false
 ---
 
 Saya lahir dan besar di Jakarta . Jakarta terletak di provinsi DKI Jakarta, Indonesia, dan terkenal dengan sejarahnya yang kaya, termasuk sebagai ibu kota Sunda Kalapa dan sebagai pusat pelabuhan kerajaan Padjadjaran. Saya berharap dapat bertemu Anda di kampung halaman saya.

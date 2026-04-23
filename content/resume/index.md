@@ -22,15 +22,16 @@ Data Analysis, HTML, CSS, JavaScript, PHP, Node.js, MySQL, Vue.js, Jaringan.
 
 ## Pengalaman Kerja
 
-![SMKN 34 Jakarta](./smknlogo.png)
+![TVRI Nasional](./tvri-nasional.png)
 {style="width:20%;"}
-**[`10/2025 - 12/2025`] Developer Web<br>
-SMKN 34 Jakarta** , Jakarta Pusat, Indonesia.<br>
-Projek pembuatan website e-learning, Framework CodeIgniter 4, Manajemen Data, Monitoring Ujian, Laporan Nilai, dan Rekap Nilai.
+**[`10/2025 - 12/2025`] IT Brodcasting<br>
+TVRI Nasional** , Jakarta Pusat, Indonesia.<br>
+Monitoring Siaran TV, Menyalurkan Siaran Liputan, Mengikuti Liputan, dan
+Mengoprasikan V-Mix.
 
 ![Korps Brimob Resimen III](./brimob.png)
 {style="width:20%;"}
-**[`01/2021 - 03/2021`] Maintenance Elektronik<br>
+**[`01/2021 - 03/2021`] Staf Administrasi<br>
 Magang - Korps Brimob Resimen III** , Kelapa Dua Depok, Indonesia.
 <br>Maintenance Elektronik, Membuat surat tugas operasi zebra, dan Mengirim surat.
 
@@ -48,7 +49,7 @@ Magang - Korps Brimob Resimen III** , Kelapa Dua Depok, Indonesia.
 ## Pendidikan
 
 [`2022 - 2026`] **Sistem Informasi** , Perguruan Tinggi<br>
-**Universitas Informatika Bina Sarana (UBSI)** , Jakarta, Indonesia.<br
+**Universitas Informatika Bina Sarana (UBSI)** , Jakarta, Indonesia.
 
 [`2018 - 2021`] **Teknik Komputer Jaringan** , Sekolah Menengah Kejuruan<br>
 **SMK Harapan Bangsa** , Kota Depok, Jawa Barat, Indonesia.
@@ -57,10 +58,10 @@ Magang - Korps Brimob Resimen III** , Kelapa Dua Depok, Indonesia.
 
 Anda dapat melihat resume saya di FlowCV atau langsung mengunduh file PDF-nya.
 
-{{< button href="#" target="_blank" >}}
+{{< button href="https://flowcv.com/resume/q29ktsi0nsaq" target="_blank" >}}
 {{< icon "link-square" >}} Flow CV
 {{< /button >}}
 &nbsp;&nbsp;
-{{< button href="#" target="_blank" >}}
+{{< button href="./Azriel_Fidzlie_FlowCV_Resume_2026-04-23.pdf" target="_blank" >}}
 {{< icon "pdf" >}} Unduh
 {{< /button >}}

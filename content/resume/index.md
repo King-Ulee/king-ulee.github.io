@@ -25,7 +25,7 @@ Data Analysis, HTML, CSS, JavaScript, PHP, Node.js, MySQL, Vue.js, Jaringan.
 ![TVRI Nasional](./tvri-nasional.png)
 {style="width:20%;"}
 **[`10/2025 - 12/2025`] IT Brodcasting<br>
-TVRI Nasional** , Jakarta Pusat, Indonesia.<br>
+Magang - TVRI Nasional** , Jakarta Pusat, Indonesia.<br>
 Monitoring Siaran TV, Menyalurkan Siaran Liputan, Mengikuti Liputan, dan
 Mengoprasikan V-Mix.
 
@@ -38,7 +38,7 @@ Magang - Korps Brimob Resimen III** , Kelapa Dua Depok, Indonesia.
 ## Sertifikat
 
 **{{< icon "erp" >}}** Workshop and successful completion of the ERP Competency Test conducted<br>
-**{{< icon "award" >}}** Sertifikat Kompetensi Analis Program Pengembangan Perangkat Lunak<br>
+**{{< icon "award" >}}** Sertifikat BNSP Kompetensi Analis Program Pengembangan Perangkat Lunak<br>
 **{{< icon "award" >}}** Sertifikat IAII Database Systems Profisiensi Pengetahuan<br>
 **{{< icon "code" >}}** Certificate of Completion: Java Interview Questions, Learn Java Basics, Learn Python Basics, dan Python Beyond Basics Challenges
 

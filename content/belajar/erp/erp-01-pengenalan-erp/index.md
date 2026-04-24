@@ -29,15 +29,15 @@ draft: false
 
 ![ERP Evolution](./evolusi.png)
 
-## Materiil Requirement Planning
+## Material Requirement Planning
 
 MRP digunakan untuk melakukan simulasi persamaan industri manufaktur, dengan menggunakan jadwal perencanaan (master schedule) untuk menjawab produk apa yang akan diproduksi, daftar pengadaan material (bill of material) untuk menjawab bahan material yang diperlukan untuk membuat produk, daftar saldo persediaan untuk menjawab bahan material apa yang sudah dimiliki dan bahan material yang harus dibeli.
 
-## Close Loop MRP
+### Close Loop MRP
 
 Alat bantu berupa sistem untuk mendukung perencanaan hingga penjualan dan produksi (Sales and Distributor Planning), jadwal pembuatan produk (Master Schedulling), perkiraan perencanaan penjualan dan perencanaan order konsumen (Demand Management), serta analisa sumber daya
 
-## Ruang Lingkup Close Loop MRP
+### Ruang Lingkup Close Loop MRP
 
 {{< mermaid >}}
 graph TD
@@ -176,7 +176,7 @@ flowchart TB
 
 {{< /mermaid >}}
 
-## Scope of Financial Dan Accounting
+### Scope of Financial Dan Accounting
 
 - Cost Center and Profit Center
 - Account Payable
@@ -192,7 +192,7 @@ flowchart TB
 - Credit Control
 - Komisi,Discount,Creadit Notes
 
-## Scope of Manufacturing
+### Scope of Manufacturing
 
 - Order Production
 - Bill of Material
@@ -202,7 +202,7 @@ flowchart TB
 - MRP(material requirement planning)
 - Product costing
 
-## Scope of Inventory
+### Scope of Inventory
 
 - Inventory Movement(transfer)
 - Inventory Management
@@ -211,7 +211,7 @@ flowchart TB
 - Product Items
 - Physical and Valuation Inventory
 
-## Procurement
+### Procurement
 
 - Purchase Requisition and Approval
 - Purchase Order and Approval
@@ -219,7 +219,7 @@ flowchart TB
 - Invoice Verification
 - Purchase Return
 
-## Scope of Human Resource
+### Scope of Human Resource
 
 - Employee Schedulling
 - Training
@@ -229,12 +229,12 @@ flowchart TB
 - Self Service HR
 - Struktur Organisasi and Workflow analysis
 
-## Scope of Plant
+### Scope of Plant
 
 - Reduce operational budged on production
 - Increase for Efficiency (work clearance management, maintenance execution,service part,document management, maintenance budgeting and integration with accounting assets)
 
-## Scope of Customer Relationship Management
+### Scope of Customer Relationship Management
 
 - Customer Campaign
 - Customer Interaction Center
@@ -245,7 +245,7 @@ flowchart TB
 - Personalization of Service
 - Realtime access enterprise info
 
-## Ruang Lingkup Businness Intelligence
+### Ruang Lingkup Businness Intelligence
 
 - Sistem informasi untuk pengambilan keputusan bagi management, seperti Decision Support Sistem(DSS),yang Inovatif dan Intuitif Interface untuk kepentingan analisis data transaksi agar memperoleh kinerja bisnis
 

@@ -24,7 +24,7 @@ Data Analysis, HTML, CSS, JavaScript, PHP, Node.js, MySQL, Vue.js, Jaringan.
 
 ![TVRI Nasional](./tvri-nasional.png)
 {style="width:20%;"}
-**[`10/2025 - 12/2025`] IT Brodcasting<br>
+**[`04/2025 - 07/2025`] IT Brodcasting<br>
 Magang - TVRI Nasional** , Jakarta Pusat, Indonesia.<br>
 Monitoring Siaran TV, Menyalurkan Siaran Liputan, Mengikuti Liputan, dan
 Mengoprasikan V-Mix.
@@ -33,7 +33,7 @@ Mengoprasikan V-Mix.
 {style="width:20%;"}
 **[`01/2021 - 03/2021`] Staf Administrasi<br>
 Magang - Korps Brimob Resimen III** , Kelapa Dua Depok, Indonesia.
-<br>Maintenance Elektronik, Membuat surat tugas operasi zebra, dan Mengirim surat.
+<br>Maintenance Elektronik, Penomoran surat, Membuat surat tugas operasi zebra, dan Mengirim surat.
 
 ## Sertifikat
 

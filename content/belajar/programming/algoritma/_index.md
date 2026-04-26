@@ -3,6 +3,7 @@ title: "Logika dan Algoritma"
 description: "Belajar Logika dan Algoritma untuk Pemula."
 type: "pemrograman"
 tags: ["logika", "algoritma", "pemula"]
+layoutBackgroundHeaderSpace: false
 showDate: false
 showReadingTime: false
 showLikes: false

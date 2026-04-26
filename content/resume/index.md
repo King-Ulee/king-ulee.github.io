@@ -33,18 +33,49 @@ Data Analysis, HTML, CSS, JavaScript, PHP, Node.js, MySQL, Vue.js, Jaringan.
 
 ## Pengalaman Kerja
 
-![TVRI Nasional](./tvri-nasional.png)
-{style="width:20%;"}
-**[`04/2025 - 07/2025`] IT Brodcasting<br>
-Magang - TVRI Nasional** , Jakarta Pusat, Indonesia.<br>
-Monitoring Siaran TV, Menyalurkan Siaran Liputan, Mengikuti Liputan, dan
-Mengoprasikan V-Mix.
-
-![Korps Brimob Resimen III](./brimob.png)
-{style="width:20%;"}
-**[`01/2021 - 03/2021`] Staf Administrasi<br>
-Magang - Korps Brimob Resimen III** , Kelapa Dua Depok, Indonesia.
-<br>Maintenance Elektronik, Penomoran surat, Membuat surat tugas operasi zebra, dan Mengirim surat.
+<table>
+  <thead>
+    <tr>
+      <th>Company</th>
+      <th>Company Name</th>
+      <th>Role</th>
+      <th>Description</th>
+      <th>Dates</th>
+      <th>Location</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img class="customEntitityLogo" src="./tvri-nasional.png"/>
+      </td>
+      <td>
+        <a href="https://www.tvri.go.id/" target="_blank">
+          TVRI Nasional
+        </a>
+      </td>
+      <td>IT Brodcasting</td>
+      <td>Monitoring Siaran TV, Menyalurkan Siaran Liputan, Mengikuti Liputan, dan
+Mengoprasikan V-Mix.</td>
+      <td>04/2025 - 07/2025</td>
+      <td>Jakarta Pusat, Indonesia</td>
+    </tr>
+    <tr>
+      <td>
+        <img class="customEntitityLogo" src="./brimob.png"/>
+      </td>
+      <td>
+        <a href="https://korbrimob.polri.go.id/" target="_blank">
+          Korps Brimob Resimen III
+        </a>
+      </td>
+      <td>Staf Administrasi</td>
+      <td>Maintenance Elektronik, Penomoran surat, Membuat surat tugas operasi zebra, dan Mengirim surat.</td>
+      <td>01/2021 - 03/2021</td>
+      <td>Kota Depok, Jawa Barat, Indonesia</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Sertifikat
 
@@ -59,11 +90,30 @@ Magang - Korps Brimob Resimen III** , Kelapa Dua Depok, Indonesia.
 
 ## Pendidikan
 
-[`2022 - 2026`] **Sistem Informasi** , Perguruan Tinggi<br>
-**Universitas Informatika Bina Sarana (UBSI)** , Jakarta, Indonesia.
-
-[`2018 - 2021`] **Teknik Komputer Jaringan** , Sekolah Menengah Kejuruan<br>
-**SMK Harapan Bangsa** , Kota Depok, Jawa Barat, Indonesia.
+<table>
+  <thead>
+    <tr>
+      <th>School</th>
+      <th>Link</th>
+      <th>Degree</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img class="customEntitityLogo" src="./logo-universitas-bina-sarana-informatika-ubsi.png"/>
+      </td>
+      <td>
+        <a href="https://www.ubsi.ac.id/" target="_blank">
+          Universitas Bina Sarana Informatika
+        </a>
+      </td>
+      <td>Sistem Informasi</td>
+      <td>2022 - 2026</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Unduh
 

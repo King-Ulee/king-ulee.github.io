@@ -3,6 +3,7 @@ title: "Computer Programming"
 description: "Belajar pemrograman untuk pemula, panduan belajar coding, dan sumber daya belajar pemrograman."
 type: "belajar"
 tags: ["belajar pemrograman", "pemrograman untuk pemula", "belajar coding"]
+layoutBackgroundHeaderSpace: false
 showDate: false
 showReadingTime: false
 showLikes: false

@@ -3,6 +3,7 @@ title: "HTML untuk Pemula"
 description: "Belajar HTML untuk pemula."
 type: "pemrograman"
 tags: ["html", "belajar html", "html untuk pemula"]
+layoutBackgroundHeaderSpace: false
 showDate: false
 showReadingTime: false
 showLikes: false

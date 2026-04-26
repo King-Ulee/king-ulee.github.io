@@ -3,6 +3,7 @@ title: "Enterprise Resource Planning (ERP)"
 description: "Belajar tentang Enterprise Resource Planning (ERP), sistem manajemen bisnis yang mengintegrasikan berbagai fungsi dan proses dalam sebuah organisasi."
 type: "belajar"
 tags: ["ERP", "Enterprise Resource Planning", "sistem manajemen bisnis"]
+layoutBackgroundHeaderSpace: false
 showDate: false
 showReadingTime: false
 showLikes: false

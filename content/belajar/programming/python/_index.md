@@ -3,6 +3,7 @@ title: "Python untuk Pemula"
 description: "Tutorial Python untuk pemula."
 type: "pemrograman"
 tags: ["python", "belajar python", "python untuk pemula"]
+layoutBackgroundHeaderSpace: false
 showDate: false
 showReadingTime: false
 showLikes: false

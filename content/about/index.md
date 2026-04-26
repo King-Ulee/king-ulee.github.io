@@ -3,12 +3,23 @@ title: "About me"
 draft: false
 description: "Blog pribadi ini dibuat untuk berbagi pengetahuan, pengalaman, dan informasi seputar teknologi, pemrograman, dan topik menarik lainnya. Tujuannya adalah untuk memberikan wawasan yang berguna bagi pembaca yang tertarik dengan dunia teknologi dan pengembangan perangkat lunak."
 type: "page"
+layoutBackgroundHeaderSpace: false
+showViews: false
+showLikes: false
+showSummary: false
+sharingLinks: false
+showTaxonomies: false
+showWordCount: false
+showDateOnlyInArticle: false
+showDateUpdated: false
+showHeadingAnchors: false
+showPagination: false
+showReadingTime: false
+showRelatedContent: false
 showTableOfContents: true
 showRelated: false
-showPagination: false
 showAuthor: true
 showDate: false
-showReadingTime: false
 showShareLinks: false
 ---
 

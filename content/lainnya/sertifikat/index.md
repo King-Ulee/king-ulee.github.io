@@ -2,12 +2,24 @@
 title: "Sertifikat"
 description: "Sertifikat yang saya peroleh."
 type: "page"
+layoutBackgroundHeaderSpace: false
+showViews: true
+showLikes: false
+showSummary: false
+sharingLinks: false
+showTaxonomies: false
+showWordCount: false
+showDateOnlyInArticle: false
+showDateUpdated: false
+showHeadingAnchors: false
+showPagination: false
+showReadingTime: false
+showRelatedContent: false
 showTableOfContents: true
 showRelated: false
-showPagination: false
-showAuthor: false
+showAuthor: true
 showDate: false
-showReadingTime: false
+showShareLinks: false
 ---
 
 Menampilkan sertifikat yang saya peroleh.

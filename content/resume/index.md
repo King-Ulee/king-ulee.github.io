@@ -3,12 +3,23 @@ title: "Resume"
 draft: false
 description: "Resume saya yang mencakup pengalaman kerja, proyek, sertifikat, dan informasi lainnya yang relevan dengan karier saya."
 type: "page"
+layoutBackgroundHeaderSpace: false
+showViews: false
+showLikes: false
+showSummary: false
+sharingLinks: false
+showTaxonomies: false
+showWordCount: false
+showDateOnlyInArticle: false
+showDateUpdated: false
+showHeadingAnchors: false
+showPagination: false
+showReadingTime: false
+showRelatedContent: false
 showTableOfContents: true
 showRelated: false
-showPagination: false
-showAuthor: false
+showAuthor: true
 showDate: false
-showReadingTime: false
 showShareLinks: false
 ---
 

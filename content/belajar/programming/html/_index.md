@@ -5,6 +5,7 @@ type: "pemrograman"
 tags: ["html", "belajar html", "html untuk pemula"]
 showDate: false
 showReadingTime: false
+showLikes: false
 ---
 
 Belajar HTML dasar dari Nol. Pahami tag-tag esensial yang sering dipakai. Lalu buat sendiri websitemu dengan HTML. Selamat Belajar!

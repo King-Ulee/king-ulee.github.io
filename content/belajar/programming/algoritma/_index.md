@@ -5,6 +5,7 @@ type: "pemrograman"
 tags: ["logika", "algoritma", "pemula"]
 showDate: false
 showReadingTime: false
+showLikes: false
 ---
 
 Belajar logika dan algoritma dasar dari Nol. Pahami konsep-konsep esensial yang sering dipakai. Lalu terapkan dalam membuat solusi masalah. Selamat Belajar!

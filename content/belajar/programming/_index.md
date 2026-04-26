@@ -5,6 +5,7 @@ type: "belajar"
 tags: ["belajar pemrograman", "pemrograman untuk pemula", "belajar coding"]
 showDate: false
 showReadingTime: false
+showLikes: false
 ---
 
 Computer programming adalah proses menulis, menguji, dan memelihara kode sumber untuk membuat perangkat lunak atau aplikasi. Belajar pemrograman dapat membuka banyak peluang karir di bidang teknologi dan memberikan keterampilan yang berguna dalam berbagai industri.
